@@ -1,4 +1,4 @@
-# VineCompiler
+# VineCompiler - Used for http://youtube.com/newvinecomps/
 
 All sourcecode created 2014 by Oliver Bell
 
@@ -6,7 +6,7 @@ Depricated python script to download and compile popular vines into a single vid
 
 This script will no longer work, but examples of how it did work can be seen on the youtube channel
 
-http://youtube.com/newvinecomps/
+
 
 # Explanation
 
